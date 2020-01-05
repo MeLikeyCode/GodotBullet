@@ -1,3 +1,3 @@
 Example code showing how to create a bullet in Godot.
 
-[YouTube Tutorial Link](https://www.youtube.com/watch?v=o7xTMUXCBpU)
+[View the YouTube Tutorial](https://www.youtube.com/watch?v=o7xTMUXCBpU)
